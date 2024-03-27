@@ -1,0 +1,26 @@
+h1{
+    margin: 0%;
+    padding: 0px;
+    text-align: center;
+}
+.container {
+    padding:  15px;
+}  
+
+.navbar{
+
+    color: white;
+    font-size: 20px;
+    justify-content: space-between;
+    height: 30px;
+
+}
+
+.a{
+    justify-content: space-between;
+    text-decoration: none;
+}
+#home{
+    background-color:#4caf50 ;
+
+    
